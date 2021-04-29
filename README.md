@@ -10,7 +10,7 @@ Paper title: Efficient Pattern Mining based Cryptanalysis for
 Copyright 2018 Australian National University and others.
 All Rights reserved.
 
-See the file COPYING for the terms under which the computer program
+See the file LICENSE for the terms under which the computer program
 code and associated documentation in this package are licensed.
 
 15 October 2018.
