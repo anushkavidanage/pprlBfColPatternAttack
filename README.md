@@ -4,8 +4,8 @@ Efficient pattern-mining based attack on Bloom filter encoding for PPRL
 Anushka Vidanage, Peter Christen, Thilina Ranbaduge, and Rainer Schnell 
 
 Paper title: Efficient Pattern Mining based Cryptanalysis for
-             Privacy-Preserving Record Linkage
-
+             Privacy-Preserving Record Linkage\
+Paper URL: [here](https://ieeexplore.ieee.org/abstract/document/8731536)
 
 Copyright 2018 Australian National University and others.
 All Rights reserved.
@@ -36,7 +36,7 @@ To run the program, use the following command (with an example setting):
 
   python pprl_bf_col_pattern_attack.py 2 dh 10 1000 
     none clk False [maxminer] 1.0 5.0 10000 path-to-encode-dataset.csv.gz 0 , 
-    True [1] path-to-plain-text-dataset.csv.gz 0 , True [1] 10 bf_tuple
+    True [1] path-to-plaintext-dataset.csv.gz 0 , True [1] 10 bf_tuple
     single 5 None None
 
 For moe details about the command line arguments see comments at the top of 
